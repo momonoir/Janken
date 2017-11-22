@@ -7,7 +7,7 @@ public class Janken02 {
 
     //ゲームの開始
     System.out.println("じゃんけんゲーム");
-    System.out.println("3本先取です");
+    System.out.println("3本先取です！");
 
     //勝敗判定
     while (youWin < 3 && cpuWin < 3) { //どちらかが3点取るまで
